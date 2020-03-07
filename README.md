@@ -53,7 +53,8 @@
     - a 偏移 b-放大 c-缩小
 ##### 注意：
 廋脸等需要脸部点的功能需要结合face++ 接口的landmark点先进行插值，进行偏移，但现在代码尚未集成，需要使用的话，需要给struct landmark进行传值   
-还尚未完成，有些需要再测试
+还尚未完成，有些需要再测试   
+opencv版本是320
 ##### reference
 [基于本地网格的图像变形器](https://www.codeproject.com/Articles/182242/Transforming-Images-for-Fun-A-Local-Grid-based-Ima)   
 [LBP](https://blog.csdn.net/shenziheng1/article/details/72582197)   
